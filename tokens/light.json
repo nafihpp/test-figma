@@ -1,0 +1,22 @@
+{
+  "surface": {
+    "value": "{surface.ghost-white}",
+    "type": "color"
+  },
+  "primary": {
+    "value": "{primary.cetacean-blue}",
+    "type": "color"
+  },
+  "text": {
+    "value": "{primary.eerie-black}",
+    "type": "color"
+  },
+  "button-text": {
+    "value": "{primary.white}",
+    "type": "color"
+  },
+  "highlight": {
+    "value": "{primary.mexican-pink}",
+    "type": "color"
+  }
+}
