@@ -1,22 +1,10 @@
 {
   "surface": {
-    "value": "{surface.ghost-white}",
-    "type": "color"
-  },
-  "primary": {
-    "value": "{primary.cetacean-blue}",
+    "value": "{theme.light.surface}",
     "type": "color"
   },
   "text": {
-    "value": "{primary.eerie-black}",
-    "type": "color"
-  },
-  "button-text": {
-    "value": "{primary.white}",
-    "type": "color"
-  },
-  "highlight": {
-    "value": "{primary.mexican-pink}",
+    "value": "{theme.light.text}",
     "type": "color"
   }
 }

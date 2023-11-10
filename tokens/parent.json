@@ -370,5 +370,27 @@
       "value": "56",
       "type": "fontSizes"
     }
+  },
+  "theme": {
+    "dark": {
+      "surface": {
+        "value": "{primary.eerie-black}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{primary.white}",
+        "type": "color"
+      }
+    },
+    "light": {
+      "surface": {
+        "value": "{primary.white}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{primary.eerie-black}",
+        "type": "color"
+      }
+    }
   }
 }

@@ -7,14 +7,11 @@
       "parent": "source",
       "light": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:1079:23",
-    "$figmaModeId": "1079:0",
+    "$figmaCollectionId": "VariableCollectionId:1084:48",
+    "$figmaModeId": "1084:2",
     "$figmaVariableReferences": {
-      "surface": "633812206a0089be3a39bb7a826acf264e89e242",
-      "primary": "b6e2f396fd754094d6e9d6ec0f6973a5e3794d07",
-      "text": "515f3d489da95f8ba795539643d6862ce2d6b3e5",
-      "button-text": "05782d54feea37fba5ec1e7184135358a6c1e193",
-      "highlight": "8cf7ac947be03c7074764d9555cf85da66fecc59"
+      "surface": "652f85470f39bc8b8c944816411574fe36cbd064",
+      "text": "7545b8f8f6f559d96337406cd899d3cf16e421bb"
     },
     "group": "Theme"
   },
@@ -26,15 +23,12 @@
       "parent": "source",
       "dark": "enabled"
     },
-    "group": "Theme",
-    "$figmaCollectionId": "VariableCollectionId:1079:23",
-    "$figmaModeId": "1079:1",
+    "$figmaCollectionId": "VariableCollectionId:1084:48",
+    "$figmaModeId": "1084:3",
     "$figmaVariableReferences": {
-      "surface": "633812206a0089be3a39bb7a826acf264e89e242",
-      "primary": "b6e2f396fd754094d6e9d6ec0f6973a5e3794d07",
-      "text": "515f3d489da95f8ba795539643d6862ce2d6b3e5",
-      "button-text": "05782d54feea37fba5ec1e7184135358a6c1e193",
-      "highlight": "8cf7ac947be03c7074764d9555cf85da66fecc59"
-    }
+      "surface": "652f85470f39bc8b8c944816411574fe36cbd064",
+      "text": "7545b8f8f6f559d96337406cd899d3cf16e421bb"
+    },
+    "group": "Theme"
   }
 ]
